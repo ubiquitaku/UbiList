@@ -1,0 +1,6 @@
+name: Ubilist
+version: ${project.version}
+main: ubiquitaku.ubilist.Ubilist
+api-version: 1.16
+commands:
+  ul:
